@@ -5,6 +5,7 @@ import { FormSection } from "../../FormSection"
 import { Header } from "../../Header"
 import { RestaurantSection } from "../../RestaurantSection"
 
+
 export const HomePage = () =>{
     return(
         <>

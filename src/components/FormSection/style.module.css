@@ -1,0 +1,9 @@
+.formSection h2{
+    margin-bottom: 20px;
+}
+
+.formSection form{
+    max-width: 520px;
+    margin: 0 auto;
+    align-items: center;
+}
